@@ -3,8 +3,7 @@ Vehicle License Plate Characters with Random Convolutional Networks
 
 This directory contains:
 - the source (interface) and binary (library) code
-- the dataset of the vehicle license plate characters
-/plates-data & /chars-data 
+- the dataset of the vehicle license plate characters (/plates-data & /chars-data)
 
 used to run the methodology described and the experiments reported in:
 
