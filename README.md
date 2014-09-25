@@ -13,4 +13,4 @@ D. Menotti, G. Chiachia, A. X. Falcão, V. J. Oliviera Neto, "Vehicle License Pl
 Download the entire data (data), extract it to any directory and just run "make" from it.
 The source code was developed, evaluated, and run under Linux Ubuntu 12.04 LTS 64 bits.
 
-MATLAB (2010 or newer) is required to run some scripts to generate chars from plates and to plot statistic graphics, but it is not essential ro tun the experiments (i.e., the random optimization)
+MATLAB (2010 or newer - developed on 2012a) is required to run some scripts to generate chars from plates and to plot statistic graphics, but it is not essential ro tun the experiments (i.e., the random optimization)
